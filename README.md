@@ -23,7 +23,7 @@
 il est à noter que l'installation reste pendant un certain temps dans l'état suivant :
 ![image](longTimeInstall.png)
 
-## sixième étape : lorsque vous y êtes invité, appuyez sur la touche 'entrée' puis cliquer sur les messages d'avertissement pour redémarrer une seconde
+## sixième étape : lorsque vous y êtes invité, appuyez sur la touche 'entrée' puis cliquer sur les messages d'avertissement pour redémarrer une seconde fois
 ![image](keyEnter.png)
 
 ## Dernière étape : Lancer une invite de commande et vérifier que node est bien installé
