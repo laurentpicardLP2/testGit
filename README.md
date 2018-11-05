@@ -1,7 +1,7 @@
 # Installation de node.js
 ## Préambule :
-1. la durée d'installation est de 15' approximativement
-2. Il y aura deux redémarrages automatiques. Il faut donc quitter les diférentes applications
+### La durée d'installation est de 15' approximativement
+### Comme il y aura deux redémarrages automatiques, quitter les diférentes applications en cours
 
 ## download 
 [simplon](http://www.simplon.co)
