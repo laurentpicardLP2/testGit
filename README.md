@@ -7,4 +7,5 @@
 int i=0;
 ```
 npm pierre install
-![] (nodejsDownload.png)
+
+![image] (./nodejsDownload.png)
