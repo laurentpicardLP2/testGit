@@ -6,3 +6,4 @@
 ```java
 int i=0;
 ```
+npm pierre install
