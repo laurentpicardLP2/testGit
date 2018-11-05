@@ -8,15 +8,17 @@
 [node.js](https://nodejs.org/en/) : choisissez la version 
 > 10.13.0 LTS
 
-Suivre l'indication 'Appuyez sur une touche pour continuer ...
+* Suivre l'indication 'Appuyez sur une touche pour continuer ...
+
 ![image](nodejsDownload.png)
 
 ## seconde étape : lancement de l'exécutable
 ![image](lancementInstall.png)
 
-## troisième : l'installation se poursuit avec powerShell
+## troisième étape : l'installation se poursuit avec powerShell
 ![image](PowerShell.png)
 
+##
 
 ```java
 int i=0;
