@@ -19,16 +19,11 @@
 ## Quatrième étape : l'installation se poursuit avec powerShell
 ![image](PowerShell.png)
 
-## Cinquème étape : après un redémarrage l'installation se poursuit automiquement : 
-![image](ApresPremierRedemarrage.png)
-
-## Sixième étape : un second redémarrage intervient : 
-![image](ApresDeuxiemeRedemarrage.png)
-
-## Septième étape : Attention, il est à noter que l'installation reste pendant un certain temps dans l'état suivant :
+## Cinquème étape : après un redémarrage l'installation se poursuit automiquement.
+il est à noter que l'installation reste pendant un certain temps dans l'état suivant :
 ![image](longTimeInstall.png)
 
-## Huitième étape : lorsque vous y êtes invité, appuyez sur la touche 'entrée'
+## sixième étape : lorsque vous y êtes invité, appuyez sur la touche 'entrée' puis cliquer sur les messages d'avertissement pour redémarrer une seconde
 ![image](keyEnter.png)
 
 ## Dernière étape : Lancer une invite de commande et vérifier que node est bien installé
