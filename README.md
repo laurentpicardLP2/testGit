@@ -1,7 +1,9 @@
 # Installation de node.js
-L'installation de node se caractérise par :
-1. une durée d'installation approximative de 15'
-2. dont deux redémarrages automatiques. Il faut donc quitter les programmes 
+## Préambule :
+1. la durée d'installation est de 15' approximativement
+2.Il y aura deux redémarrages automatiques. Il faut donc quitter les diférentes applications
+
+## download 
 [simplon](http://www.simplon.co)
 # test
 
