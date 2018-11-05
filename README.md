@@ -4,7 +4,8 @@
 * Comme il y aura deux redémarrages automatiques, quitter les diférentes applications en cours
 
 ## première étape : downoad node.js
-[node.js](https://nodejs.org/en/) : choisissez la version > 10.13.0 LTS
+[node.js](https://nodejs.org/en/) : choisissez la version 
+> 10.13.0 LTS
 
 
 ![image](nodejsDownload.png)
