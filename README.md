@@ -22,12 +22,14 @@
 ## Cinquème étape : un second redémarrage intervient : 
 ![image](ApresDeuxiemeRedemarrage.png)
 
-## Sixième étape : Attention, cette partie  l'installation reste longtemps dans l'état suivant :
+## Sixième étape : Attention, il est à noter que l'installation reste pendant un certain temps dans l'état suivant :
 ![image](longTimeInstall.png)
 
-```java
-int i=0;
-```
-npm pierre install
-PowerShell.png
+## Septième étape : lorsque vous y êtes invité, appuyez sur la touche 'entrée'
+![image](keyEnter.png)
+
+## Dernière étape : Lancer une invite de commande et vérifier que node est bien installé
+![image](finalSpep.png)
+
+
 
