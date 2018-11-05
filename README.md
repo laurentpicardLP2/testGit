@@ -16,13 +16,14 @@
 ## Troisième étape : l'installation se poursuit avec powerShell
 ![image](PowerShell.png)
 
-## Quatrième étape : après un redemmarage l'installation se poursuit automiquement : 
+## Quatrième étape : après un redémarrage l'installation se poursuit automiquement : 
 ![image](ApresPremierRedemarrage.png)
 
-## Cinquème étape : un second redemmarage intervient : 
+## Cinquème étape : un second redémarrage intervient : 
 ![image](ApresDeuxiemeRedemarrage.png)
 
-## Sixième étape : 
+## Sixième étape : Attention, cette partie  l'installation reste longtemps dans l'état suivant :
+![image](longTimeInstall.png)
 
 ```java
 int i=0;
