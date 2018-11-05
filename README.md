@@ -7,7 +7,10 @@
 [node.js](https://nodejs.org/en/) : choisissez la version 
 > 10.13.0 LTS
 
+## seconde étape : lancement de l'exécutable
+![image](lancementInstall.png)
 
+## troisième étape
 ![image](nodejsDownload.png)
 
 ```java
