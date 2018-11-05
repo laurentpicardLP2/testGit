@@ -10,22 +10,25 @@
 
 ![image](nodejsDownload.png)
 
-## Seconde étape : une fois l'exécutable lancé, suivre l'indication 'Appuyez sur une touche pour continuer ...
+## Seconde étape : cocher l'option de l'installation automatique
+![image](tickAutomatically.png)
+
+## Troisième étape : une fois l'exécutable lancé, suivre l'indication 'Appuyez sur une touche pour continuer ...
 ![image](lancementInstall.png)
 
-## Troisième étape : l'installation se poursuit avec powerShell
+## Quatrième étape : l'installation se poursuit avec powerShell
 ![image](PowerShell.png)
 
-## Quatrième étape : après un redémarrage l'installation se poursuit automiquement : 
+## Cinquème étape : après un redémarrage l'installation se poursuit automiquement : 
 ![image](ApresPremierRedemarrage.png)
 
-## Cinquème étape : un second redémarrage intervient : 
+## Sixième étape : un second redémarrage intervient : 
 ![image](ApresDeuxiemeRedemarrage.png)
 
-## Sixième étape : Attention, il est à noter que l'installation reste pendant un certain temps dans l'état suivant :
+## Septième étape : Attention, il est à noter que l'installation reste pendant un certain temps dans l'état suivant :
 ![image](longTimeInstall.png)
 
-## Septième étape : lorsque vous y êtes invité, appuyez sur la touche 'entrée'
+## Huitième étape : lorsque vous y êtes invité, appuyez sur la touche 'entrée'
 ![image](keyEnter.png)
 
 ## Dernière étape : Lancer une invite de commande et vérifier que node est bien installé
