@@ -1,6 +1,6 @@
 # Installation de node.js
 ## Préambule :
-* L'installation de node servira pour Angular
+* L'installation de node servira pour Angular en janv 19
 * La durée d'installation est de 15' approximativement
 * Comme il y aura deux redémarrages automatiques, quitter les diférentes applications en cours
 
